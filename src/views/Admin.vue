@@ -95,7 +95,7 @@ export default {
                     foto: this.usuario.foto
                 })
 
-                this.error = 'Imagen subida con éxito'
+                this.error = 'Imagen subida con éxito' 
                 this.file = null
 
             } catch (error) {
