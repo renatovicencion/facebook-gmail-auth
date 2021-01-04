@@ -68,7 +68,8 @@ export default {
             items: [
                 {title: 'Dashboard', icon: 'fas fa-lemon', to: {name: 'home'}},
                 {title: 'Account', icon: 'fas fa-user-circle', to: {name: 'ingreso'}},
-                {title: 'Admin', icon: 'fas fa-key', to: {name: 'admin'}}
+                {title: 'Admin', icon: 'fas fa-key', to: {name: 'admin'}},
+                {title: 'Chat', icon: 'fas fa-comments', to: {name: 'chat'}}
             ]
         }
     },
